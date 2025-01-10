@@ -1,1 +1,6 @@
 command: https://www.openwall.com/john/doc/OPTIONS.shtml
+modes: https://www.openwall.com/john/doc/MODES.shtml
+config: https://www.openwall.com/john/doc/CONFIG.shtml
+rules: https://www.openwall.com/john/doc/RULES.shtml
+external: https://www.openwall.com/john/doc/EXTERNAL.shtml
+example: https://www.openwall.com/john/doc/EXAMPLES.shtml
