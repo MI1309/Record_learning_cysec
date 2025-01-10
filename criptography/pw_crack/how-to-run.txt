@@ -2,3 +2,4 @@ john the ripper
 
 pada saat pertama kali menjalankan akan membuat satu folder di ~/.john 
 
+command : john -format=crypt file-pw.txt akan mencrack pw dengan format crypt
