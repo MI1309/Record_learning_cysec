@@ -1,0 +1,4 @@
+john the ripper 
+
+pada saat pertama kali menjalankan akan membuat satu folder di ~/.john 
+
