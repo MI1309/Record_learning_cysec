@@ -1,0 +1,4 @@
+membuat request register,
+kemudian mencegat request kode otp
+, kemudian melakukan hal sama kemudian  dapat flagnya
+
