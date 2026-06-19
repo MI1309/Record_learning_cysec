@@ -1,4 +1,0 @@
-# Mengenkripsi semua file berakhiran .key
-*.key filter=git-crypt diff=git-crypt
-# Atau spesifik ke folder otw
-otw/*.key filter=git-crypt diff=git-crypt
